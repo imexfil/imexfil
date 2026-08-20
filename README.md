@@ -21,5 +21,4 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imexfil&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imexfil&layout=compact&theme=radial)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imexfil&theme=react-dark)
