@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Web Development projects**
 - 🌱 I’m currently learning **React, TypeScript & Node.js**
 - 💬 Ask me about **Frontend, Backend, or Web Technologies**
-- 📫 How to reach me: **[email@example.com]**
+- 📫 How to reach me: t.me/exfil7
 
 ---
 
